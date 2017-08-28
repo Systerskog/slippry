@@ -1,0 +1,24 @@
+<h1 id="slippry-slippry-build-statushttpstravis-ciorgboonconslipprysvgbranchdev">Slippry <img src="https://travis-ci.org/booncon/slippry.svg?branch=dev" alt="Slippry build status" /></h1>
+
+<p>Responsive slider plugin for jQuery.
+Intrinsic trick to enable responsive resizing without js!</p>
+
+<h2 id="responsive">Responsive</h2>
+<p>### Buzzword? Yes. Important? Very.
+We got frustrated at the lack of free, responsive sliders, so we wrote our own. Sure, there are some out there, but we found out the hard way, they have two settings or they use soon-to-be-deprecated functions.</p>
+
+<p>Oops.</p>
+
+<h2 id="modern">Modern</h2>
+<p>### HTML5 + CSS3 + jQuery
+Slippry is written with the future in mind, not the past. We wrote it to work on the latest jQuery functions, CSS3 tricks and HTML5 elements. We support death with dignity for technology.</p>
+
+<p>But don't worry, it still downgrades gracefully.</p>
+
+<h2 id="simple">Simple</h2>
+<p>### Or complex. You choose.
+Isn't it great when you just need a simple slider? How about when the design needs captions in random places, Reeeeaaallllyyyy slooowwwww speeds or an annoying pop-up each time you change slide? Yeah, not so great.</p>
+
+<p>Slippry offers a heap of settings you actually need, and with the included CSS and Sass you can make Slippry look just how you need it.</p>
+
+<p>Check it out at http://slippry.com</p>
